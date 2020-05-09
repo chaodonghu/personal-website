@@ -2,26 +2,20 @@
 email: okay@samesies.io
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+google_analytics:
 
-name: Thomas Vaeth
-title: The Barber Theme
-description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
-default_img: /assets/images/seo.jpg
+name: Dong Hu
+title: Dong Hu Personal WEbsite
+description:
+url: http://chaodonghu.github.io
+default_img: /assets/images/personal_photo.jpg
 social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/chaodonghu/
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.linkedin.com/in/dong-hu-8769986b/
   - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://github.com/chaodonghu
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -36,9 +30,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Dong Hu
+    bio: Insert Bio Here
+    url: http://chaodonghu.github.io
 
 # Pagination settings
 pagination:
@@ -57,9 +51,9 @@ autopages:
   collections:
     enabled: false
   tags:
-    layouts: 
+    layouts:
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Dong Hu'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
@@ -77,7 +71,6 @@ compress_html:
 exclude:
   - node_modules
   - .DS_Store
-  - barber.jpg
   - Gemfile
   - Gemfile.lock
   - gulpfile.js
