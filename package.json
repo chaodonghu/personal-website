@@ -10,7 +10,7 @@
   },
   "author": {
     "name": "Dong Hu",
-    "email": "dojostan@gmail.com",
+    "email": "dojostan@gmail.com"
   },
   "dependencies": {
     "aos": "^2.3.4",
