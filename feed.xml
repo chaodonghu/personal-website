@@ -5,8 +5,8 @@
     <description></description>
     <link>http://chaodonghu.github.io</link>
     <atom:link href="http://chaodonghu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 May 2020 19:05:32 -0400</pubDate>
-    <lastBuildDate>Sun, 10 May 2020 19:05:32 -0400</lastBuildDate>
+    <pubDate>Sun, 10 May 2020 19:32:27 -0400</pubDate>
+    <lastBuildDate>Sun, 10 May 2020 19:32:27 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -17,10 +17,14 @@
 
 &lt;p&gt;We spent the first week doing focused skills training — learning new coding languages and perfecting our understanding of certain approaches to development — and the second week working in teams to solve challenges for one of our three charity partners using cognitive-based technology solutions. Being it was my first development internship I would definetly recommend it for anyone in the Toronto area looking to get hands on experience as the mentors and people I met were extremely smart and passionate about learning new technologies.&lt;/p&gt;
 
+&lt;hr /&gt;
+
 &lt;blockquote&gt;
   &lt;p&gt;The theme of Fellowship this time was Cognitive for a Cause. It allowed us to explore our joint interest with IBM in the real-world possibilities of cognitive tech (using IBM Watson) by applying it to key community initiatives. We specifically worked with charities that might not have the resources to explore the more cutting-edge or experimental ideas that cognitive tech is making possible these days.
 &lt;cite&gt;Yashar Rassoulli&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;hr /&gt;
 
 &lt;h4 id=&quot;our-teams-problem-statement&quot;&gt;Our team’s problem statement&lt;/h4&gt;
 
@@ -28,11 +32,11 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/myplanet/2.jpg&quot; alt=&quot;MyPlanetCohort&quot; /&gt;&lt;/p&gt;
 
+&lt;hr /&gt;
+
 &lt;h4 id=&quot;our-solution&quot;&gt;Our solution&lt;/h4&gt;
 
 &lt;p&gt;Our goal was to create an application that allows the client to gather data from social media.&lt;/p&gt;
-
-&lt;p&gt;Check out the final product &lt;a href=&quot;https://github.com/hmeinertrita/MyPlanetGirlGuides&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/myplanet/girlguides.gif&quot; alt=&quot;GirlGuides&quot; /&gt;&lt;/p&gt;
 
@@ -47,9 +51,17 @@
 
 &lt;p&gt;In order to enable the ability for the client to be able to hear people’s thoughts and opinions on this change, we implemented filtering of tweets based on key words, hashtags or twitter handle. Liaising with IBM to incorporate their latest technologies into the project we analyzed the sentiment (joy, fear, sadness, disguist, anger) of each tweet body using the Watson Tone Analyzer API  such as Bluemix and Watson&lt;/p&gt;
 
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;source-code&quot;&gt;Source Code&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/hmeinertrita/MyPlanetGirlGuides&quot;&gt;Source Code&lt;/a&gt;&lt;/p&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Stack used: React.js, MongoDB, Twitter API, Watson Tone Analyzer API&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/myplanet/3.jpg&quot; alt=&quot;MyPlanetCohortActivity&quot; /&gt;&lt;/p&gt;
 </description>
@@ -68,19 +80,30 @@
 
 &lt;p&gt;We also happened to win the “People’s Choice Award at Lighthouse Labs Demo Day”&lt;/p&gt;
 
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;concept&quot;&gt;Concept&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/itineroo/itineroo-overview-mobile-1.jpg&quot; alt=&quot;Itineroo&quot; /&gt;
+&lt;img src=&quot;/assets/images/itineroo/itineroo-overview-mobile-2.jpg&quot; alt=&quot;Itineroo&quot; /&gt;
+&lt;img src=&quot;/assets/images/itineroo/itineroo-overview-mobile-3.jpg&quot; alt=&quot;Itineroo&quot; /&gt;
+&lt;img src=&quot;/assets/images/itineroo/itineroo-overview-mobile-4.jpg&quot; alt=&quot;Itineroo&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;source-code&quot;&gt;Source Code&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/chaodonghu/Itinerro-React-Travel-App&quot;&gt;Source Code&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Front-end built using HTML/CSS/SASS, React, Bootstrap, Materialize, Javascript, AJAX&lt;/li&gt;
   &lt;li&gt;Backend was built using Node.js, Express, and PostreSQL,&lt;/li&gt;
   &lt;li&gt;Google Places &amp;amp; Maps API was used to fetch top 20 locations from desired city.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/chaodonghu/Itinerro-React-Travel-App&quot;&gt;Source&lt;/a&gt;
-&lt;a href=&quot;http://itineroo.herokuapp.com/&quot;&gt;Demo&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/itineroo/itineroo-overview-mobile-1.jpg&quot; alt=&quot;Itineroo&quot; /&gt;
-&lt;img src=&quot;/assets/images/itineroo/itineroo-overview-mobile-2.jpg&quot; alt=&quot;Itineroo&quot; /&gt;
-&lt;img src=&quot;/assets/images/itineroo/itineroo-overview-mobile-3.jpg&quot; alt=&quot;Itineroo&quot; /&gt;
-&lt;img src=&quot;/assets/images/itineroo/itineroo-overview-mobile-4.jpg&quot; alt=&quot;Itineroo&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;demo&quot;&gt;Demo&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://itineroo.herokuapp.com/&quot;&gt;Demo&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Jul 2017 00:00:00 -0400</pubDate>
         <link>http://chaodonghu.github.io/2017/07/08/itineroo/</link>
@@ -95,27 +118,35 @@
         <title>Abstracts/Poster Presentations</title>
         <description>&lt;p&gt;A list of abstracts and poster presentations that I either made or contributed to during my undergraduate degree in Kinesiology at the University of Waterloo.&lt;/p&gt;
 
+&lt;hr /&gt;
+
 &lt;h4 id=&quot;canadian-frailty-network-summer-student-award-presentation&quot;&gt;Canadian Frailty Network Summer Student Award Presentation&lt;/h4&gt;
 
 &lt;object data=&quot;/assets/images/posters/CFN_Poster_Dong_April182017.pdf&quot; type=&quot;application/pdf&quot;&gt;
 &lt;/object&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;Poster presentation summarizing summer student award received to pursue study that aimed to investigate the effectiveness of the pharmacist intervention on the use of polypharmacy, high-risk medication use and gastrointestinal protection among frail elderly who underwent a pharmacist intervention in comparison to frail elderly who declined a pharmacist intervention at the Centre for Family Medicine Health Team.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;h4 id=&quot;pharmacist-interventions-for-a-frail-elderly-population-in-primary-care---june-6-2016&quot;&gt;Pharmacist Interventions for a Frail Elderly Population in Primary Care - June 6 2016&lt;/h4&gt;
 
 &lt;object data=&quot;/assets/images/posters/CPHA_Poster_June62016.pdf&quot; type=&quot;application/pdf&quot;&gt;
 &lt;/object&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;p&gt;Poster presentation for the Canadian Pharmacists Conference summarizing pharmacist interventions for a frail elderly population in primary care.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;h4 id=&quot;the-role-of-robotic-exoskeletons-in-sci-rehabilitation---june-19-2015&quot;&gt;The Role of Robotic Exoskeletons in SCI Rehabilitation - June 19 2015&lt;/h4&gt;
 
 &lt;object data=&quot;/assets/images/posters/CPA_June19202015.pdf&quot; type=&quot;application/pdf&quot;&gt;
 &lt;/object&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;Poster presentation for the Canadian Physiotherapy Association describing the role of robotic exoskeletons in SCI rehabilitation. A narrative synthesis of published data regarding the safety and efficacy of the technology of exoskeletons.&lt;/p&gt;
 </description>
@@ -123,7 +154,7 @@
         <link>http://chaodonghu.github.io/2017/07/08/poster-presentations/</link>
         <guid isPermaLink="true">http://chaodonghu.github.io/2017/07/08/poster-presentations/</guid>
         
-        <category>School</category>
+        <category>Blog</category>
         
         
       </item>
