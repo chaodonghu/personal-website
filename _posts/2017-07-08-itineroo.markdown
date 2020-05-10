@@ -6,7 +6,7 @@ description:
 image: /assets/images/itineroo/itineroo-overview-mobile-1.jpg
 author: Dong Hu
 tags:
-  - Projects
+  - Portfolio
 ---
 I attended a coding [bootcamp](https://www.lighthouselabs.ca/) right out of university in hopes of switching fields from Kinesiology to the world of tech. At the cumulation of the bootcamp I partnered up with another future software developer to create a trip planning app built to allow friends and family to collaborate, vote and comment on a desired itinerary for any city using Google Places and Google Maps API.
 
