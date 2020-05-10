@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MyPlanet Summer 2017 Fellowship"
+title: "Myplanet Summer 2017 Fellowship - Girl Guides Canada"
 date: 2017-09-04
 description:
 image: /assets/images/myplanet/1.jpg
