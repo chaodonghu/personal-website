@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Itineroo - Travel Planning App"
+date: 2017-07-08
+description:
+image: /assets/images/itineroo/itineroo-overview-mobile-1.jpg
+author: Dong Hu
+tags:
+  - Projects
+---
+I attended a coding [bootcamp](https://www.lighthouselabs.ca/) right out of university in hopes of switching fields from Kinesiology to the world of tech. At the cumulation of the bootcamp I partnered up with another future software developer to create a trip planning app built to allow friends and family to collaborate, vote and comment on a desired itinerary for any city using Google Places and Google Maps API.
+
+We also happened to win the "People's Choice Award at Lighthouse Labs Demo Day"
+
+* Front-end built using HTML/CSS/SASS, React, Bootstrap, Materialize, Javascript, AJAX
+* Backend was built using Node.js, Express, and PostreSQL,
+* Google Places & Maps API was used to fetch top 20 locations from desired city.
+
+[Source](https://github.com/chaodonghu/Itinerro-React-Travel-App)
+[Demo](http://itineroo.herokuapp.com/)
+
+![Itineroo](/assets/images/itineroo/itineroo-overview-mobile-1.jpg)
+![Itineroo](/assets/images/itineroo/itineroo-overview-mobile-2.jpg)
+![Itineroo](/assets/images/itineroo/itineroo-overview-mobile-3.jpg)
+![Itineroo](/assets/images/itineroo/itineroo-overview-mobile-4.jpg)
