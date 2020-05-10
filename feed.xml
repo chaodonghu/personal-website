@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dong Hu</title>
+    <description></description>
+    <link>http://chaodonghu.github.io</link>
+    <atom:link href="http://chaodonghu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 May 2020 19:05:32 -0400</pubDate>
+    <lastBuildDate>Sun, 10 May 2020 19:05:32 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Girl Guides Canada - Sentiment Analysis App</title>
+        <description>&lt;p&gt;I was apart of the &lt;a href=&quot;https://www.myplanet.com/&quot;&gt;Myplanet&lt;/a&gt; 2017 &lt;a href=&quot;https://medium.com/myplanet-musings/myplanet-fellowship-2-0-e71c46c28364&quot;&gt;fellowship&lt;/a&gt; class which gave 18 students a real, hands-on experience with agile, as well as the ability to implement AI and the latest development platforms to build a product for a non-for-profit/charity.&lt;/p&gt;
+
+&lt;p&gt;As an added bonus, Myplanet partnered up with IBM meaning that we also had the ability to connect with some of the latest in cognitive tech while maintaining a community-oriented charitable component.&lt;/p&gt;
+
+&lt;p&gt;We spent the first week doing focused skills training — learning new coding languages and perfecting our understanding of certain approaches to development — and the second week working in teams to solve challenges for one of our three charity partners using cognitive-based technology solutions. Being it was my first development internship I would definetly recommend it for anyone in the Toronto area looking to get hands on experience as the mentors and people I met were extremely smart and passionate about learning new technologies.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The theme of Fellowship this time was Cognitive for a Cause. It allowed us to explore our joint interest with IBM in the real-world possibilities of cognitive tech (using IBM Watson) by applying it to key community initiatives. We specifically worked with charities that might not have the resources to explore the more cutting-edge or experimental ideas that cognitive tech is making possible these days.
+&lt;cite&gt;Yashar Rassoulli&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;our-teams-problem-statement&quot;&gt;Our team’s problem statement&lt;/h4&gt;
+
+&lt;p&gt;GirlGuidesCanada is embarking on a massive change which will impact all of its members in some way, shape or form (~100k). Girls, parents, Guiders or other Sr. volunteers have no centralized way to share what they feel/think about the change and we have no way to hear, analyze and consolidate ‘the pulse’ of the field. We need a better way to get at this information to help us make decisions in real time!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/myplanet/2.jpg&quot; alt=&quot;MyPlanetCohort&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;our-solution&quot;&gt;Our solution&lt;/h4&gt;
+
+&lt;p&gt;Our goal was to create an application that allows the client to gather data from social media.&lt;/p&gt;
+
+&lt;p&gt;Check out the final product &lt;a href=&quot;https://github.com/hmeinertrita/MyPlanetGirlGuides&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/myplanet/girlguides.gif&quot; alt=&quot;GirlGuides&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Working in a team of 4 we built a real-time twitter feed prototype app that allows users to filter by key words, tags or twitter handles for the Girl Guides of Canada. We focused on utilizing one social network that being the Twitter API however the application could be scalable to other networks (Facebook, Linkedin, Instagram etc). In particular our twitter API data from these five hashtags:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#GirlGuides
+#GirlGuidesCanada
+#GirlGuidesCookies
+#GirlScouts
+#MyPlanet
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In order to enable the ability for the client to be able to hear people’s thoughts and opinions on this change, we implemented filtering of tweets based on key words, hashtags or twitter handle. Liaising with IBM to incorporate their latest technologies into the project we analyzed the sentiment (joy, fear, sadness, disguist, anger) of each tweet body using the Watson Tone Analyzer API  such as Bluemix and Watson&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Stack used: React.js, MongoDB, Twitter API, Watson Tone Analyzer API&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/myplanet/3.jpg&quot; alt=&quot;MyPlanetCohortActivity&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Sep 2017 00:00:00 -0400</pubDate>
+        <link>http://chaodonghu.github.io/2017/09/04/myplanet/</link>
+        <guid isPermaLink="true">http://chaodonghu.github.io/2017/09/04/myplanet/</guid>
+        
+        <category>Portfolio</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Itineroo - Travel Planning App</title>
+        <description>&lt;p&gt;I attended a coding &lt;a href=&quot;https://www.lighthouselabs.ca/&quot;&gt;bootcamp&lt;/a&gt; right out of university in hopes of switching fields from Kinesiology to the world of tech. At the cumulation of the bootcamp I partnered up with another future software developer to create a trip planning app built to allow friends and family to collaborate, vote and comment on a desired itinerary for any city using Google Places and Google Maps API.&lt;/p&gt;
+
+&lt;p&gt;We also happened to win the “People’s Choice Award at Lighthouse Labs Demo Day”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Front-end built using HTML/CSS/SASS, React, Bootstrap, Materialize, Javascript, AJAX&lt;/li&gt;
+  &lt;li&gt;Backend was built using Node.js, Express, and PostreSQL,&lt;/li&gt;
+  &lt;li&gt;Google Places &amp;amp; Maps API was used to fetch top 20 locations from desired city.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/chaodonghu/Itinerro-React-Travel-App&quot;&gt;Source&lt;/a&gt;
+&lt;a href=&quot;http://itineroo.herokuapp.com/&quot;&gt;Demo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/itineroo/itineroo-overview-mobile-1.jpg&quot; alt=&quot;Itineroo&quot; /&gt;
+&lt;img src=&quot;/assets/images/itineroo/itineroo-overview-mobile-2.jpg&quot; alt=&quot;Itineroo&quot; /&gt;
+&lt;img src=&quot;/assets/images/itineroo/itineroo-overview-mobile-3.jpg&quot; alt=&quot;Itineroo&quot; /&gt;
+&lt;img src=&quot;/assets/images/itineroo/itineroo-overview-mobile-4.jpg&quot; alt=&quot;Itineroo&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 08 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://chaodonghu.github.io/2017/07/08/itineroo/</link>
+        <guid isPermaLink="true">http://chaodonghu.github.io/2017/07/08/itineroo/</guid>
+        
+        <category>Portfolio</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Abstracts/Poster Presentations</title>
+        <description>&lt;p&gt;A list of abstracts and poster presentations that I either made or contributed to during my undergraduate degree in Kinesiology at the University of Waterloo.&lt;/p&gt;
+
+&lt;h4 id=&quot;canadian-frailty-network-summer-student-award-presentation&quot;&gt;Canadian Frailty Network Summer Student Award Presentation&lt;/h4&gt;
+
+&lt;object data=&quot;/assets/images/posters/CFN_Poster_Dong_April182017.pdf&quot; type=&quot;application/pdf&quot;&gt;
+&lt;/object&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Poster presentation summarizing summer student award received to pursue study that aimed to investigate the effectiveness of the pharmacist intervention on the use of polypharmacy, high-risk medication use and gastrointestinal protection among frail elderly who underwent a pharmacist intervention in comparison to frail elderly who declined a pharmacist intervention at the Centre for Family Medicine Health Team.&lt;/p&gt;
+
+&lt;h4 id=&quot;pharmacist-interventions-for-a-frail-elderly-population-in-primary-care---june-6-2016&quot;&gt;Pharmacist Interventions for a Frail Elderly Population in Primary Care - June 6 2016&lt;/h4&gt;
+
+&lt;object data=&quot;/assets/images/posters/CPHA_Poster_June62016.pdf&quot; type=&quot;application/pdf&quot;&gt;
+&lt;/object&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Poster presentation for the Canadian Pharmacists Conference summarizing pharmacist interventions for a frail elderly population in primary care.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-role-of-robotic-exoskeletons-in-sci-rehabilitation---june-19-2015&quot;&gt;The Role of Robotic Exoskeletons in SCI Rehabilitation - June 19 2015&lt;/h4&gt;
+
+&lt;object data=&quot;/assets/images/posters/CPA_June19202015.pdf&quot; type=&quot;application/pdf&quot;&gt;
+&lt;/object&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Poster presentation for the Canadian Physiotherapy Association describing the role of robotic exoskeletons in SCI rehabilitation. A narrative synthesis of published data regarding the safety and efficacy of the technology of exoskeletons.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 08 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://chaodonghu.github.io/2017/07/08/poster-presentations/</link>
+        <guid isPermaLink="true">http://chaodonghu.github.io/2017/07/08/poster-presentations/</guid>
+        
+        <category>School</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
