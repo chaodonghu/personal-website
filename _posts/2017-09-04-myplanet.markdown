@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Myplanet Summer 2017 Fellowship - Girl Guides Canada"
+title: "Girl Guides Canada - Sentiment Analysis App"
 date: 2017-09-04
 description:
 image: /assets/images/myplanet/1.jpg
 author: Dong Hu
 tags:
-  - Myplanet
   - Projects
 ---
 I was apart of the [Myplanet](https://www.myplanet.com/) 2017 [fellowship](https://medium.com/myplanet-musings/myplanet-fellowship-2-0-e71c46c28364) class which gave 18 students a real, hands-on experience with agile, as well as the ability to implement AI and the latest development platforms to build a product for a non-for-profit/charity.
