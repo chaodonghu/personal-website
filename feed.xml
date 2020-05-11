@@ -5,8 +5,8 @@
     <description></description>
     <link>http://chaodonghu.github.io</link>
     <atom:link href="http://chaodonghu.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 May 2020 19:32:27 -0400</pubDate>
-    <lastBuildDate>Sun, 10 May 2020 19:32:27 -0400</lastBuildDate>
+    <pubDate>Sun, 10 May 2020 20:50:13 -0400</pubDate>
+    <lastBuildDate>Sun, 10 May 2020 20:50:13 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -49,7 +49,7 @@
 #MyPlanet
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;In order to enable the ability for the client to be able to hear people’s thoughts and opinions on this change, we implemented filtering of tweets based on key words, hashtags or twitter handle. Liaising with IBM to incorporate their latest technologies into the project we analyzed the sentiment (joy, fear, sadness, disguist, anger) of each tweet body using the Watson Tone Analyzer API  such as Bluemix and Watson&lt;/p&gt;
+&lt;p&gt;In order to enable the ability for the client to be able to hear people’s thoughts and opinions on this change, we implemented filtering of tweets based on key words, hashtags or twitter handle. Liaising with IBM to incorporate their latest technologies into the project we analyzed the sentiment (joy, fear, sadness, disguist, anger) of each tweet body using the Watson Tone Analyzer API.&lt;/p&gt;
 
 &lt;hr /&gt;
 
