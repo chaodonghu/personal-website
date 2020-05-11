@@ -2,7 +2,7 @@
 layout: post
 title: "Girl Guides Canada - Sentiment Analysis App"
 date: 2017-09-04
-description:
+description: Real-time twitter feed POC that allows users to filter by key words, tags or twitter handles and analyze the sentiment of each tweet for the Girl Guides of Canada.
 image: /assets/images/myplanet/1.jpg
 author: Dong Hu
 tags:
@@ -45,7 +45,7 @@ Working in a team of 4 we built a real-time twitter feed prototype app that allo
 #MyPlanet
 ```
 
-In order to enable the ability for the client to be able to hear people’s thoughts and opinions on this change, we implemented filtering of tweets based on key words, hashtags or twitter handle. Liaising with IBM to incorporate their latest technologies into the project we analyzed the sentiment (joy, fear, sadness, disguist, anger) of each tweet body using the Watson Tone Analyzer API  such as Bluemix and Watson
+In order to enable the ability for the client to be able to hear people’s thoughts and opinions on this change, we implemented filtering of tweets based on key words, hashtags or twitter handle. Liaising with IBM to incorporate their latest technologies into the project we analyzed the sentiment (joy, fear, sadness, disguist, anger) of each tweet body using the Watson Tone Analyzer API.
 
 <hr />
 
