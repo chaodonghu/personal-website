@@ -5,7 +5,7 @@ permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: Dong Hu
-title:
+title: Dong Hu
 description:
 url: http://chaodonghu.github.io
 default_img: /assets/images/personal_photo.jpg
