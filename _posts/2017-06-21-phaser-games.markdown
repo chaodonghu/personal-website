@@ -19,13 +19,17 @@ It's a pretty cool open source framework to make canvas and WebGL powered browse
 <img src="/assets/images/drake_phaser/asteroids1.png" alt="asteroids_1" width="400"/>
 <img src="/assets/images/drake_phaser/asteroids2.png" alt="asteroids_2" width="400"/>
 
+<hr />
+
 [Demo](https://chaodonghu.github.io/phaser_drake_asteroids/)
-[Source Code](https://github.com/chaodonghu/phaser_drake_asteroids)
+[Github](https://github.com/chaodonghu/phaser_drake_asteroids)
 
 #### Pong Game - Drake Edition
 
 <img src="/assets/images/drake_phaser/pong1.png" alt="pong_1" width="400"/>
 <img src="/assets/images/drake_phaser/pong2.png" alt="pong_2" width="400"/>
 
+<hr />
+
 [Demo](https://chaodonghu.github.io/phaser_drake_pong/)
-[Source Code](https://github.com/chaodonghu/phaser_drake_pong)
+[Github](https://github.com/chaodonghu/phaser_drake_pong)

@@ -51,7 +51,7 @@ In order to enable the ability for the client to be able to hear people’s thou
 
 #### Source Code
 
-[Source Code](https://github.com/hmeinertrita/MyPlanetGirlGuides)
+[Github](https://github.com/hmeinertrita/MyPlanetGirlGuides)
 
 * Stack used: React.js, MongoDB, Twitter API, Watson Tone Analyzer API
 
