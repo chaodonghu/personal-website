@@ -2,9 +2,14 @@
 Personal website built with Jekyll
 
 ### Installation
+
+#### Without Docker
 `bundle install` to install all gems.
 
 Run `npm start` to develop on `localhost:4000`.
+
+#### With Docker
+`docker-compose up`
 
 ### Deployment
 

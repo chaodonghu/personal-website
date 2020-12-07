@@ -9,3 +9,11 @@ services:
     volumes:
       - .:/srv/jekyll
       - ./vendor/bundle:/usr/local/bundle
+  build:
+    image: jekyll/jekyll:3.8.6
+    command: jekyll build
+    volumes:
+      - '$PWD:/srv/jekyll'
+      - '$PWD/vendor/bundle:/usr/local/bundle'
+    environment:
+        - JEKYLL_ENV=production
