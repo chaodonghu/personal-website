@@ -8,7 +8,7 @@ author: Dong Hu
 tags:
   - Blog
 ---
-A list of abstracts and poster presentations that I either made or contributed to during my undergraduate degree in Kinesiology at the University of Waterloo.
+list of abstracts and poster presentations that I either made or contributed to during my undergraduate degree in Kinesiology at the University of Waterloo.
 
 <hr />
 
