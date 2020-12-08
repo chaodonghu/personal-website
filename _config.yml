@@ -1,0 +1,78 @@
+# Site/SEO settings
+email: dojostan@gmail.com
+baseurl: ""
+permalink: /:year/:month/:day/:title/
+google_analytics:
+
+name: Dong Hu
+title: Dong Hu
+description:
+url: http://chaodonghu.github.io
+default_img: /assets/images/personal_photo.jpg
+social:
+  - name: instagram
+    url: https://www.instagram.com/chaodonghu/
+  - name: linkedin
+    url: https://www.linkedin.com/in/dong-hu/
+  - name: github
+    url: https://github.com/chaodonghu
+  - name: medium
+    url: https://medium.com/@donghu
+  - name: black-tie
+    url: /assets/images/Dong_Hu_Resume.pdf
+
+# Contact settings
+contact_img: /assets/images/personal/contact_me.jpeg
+formcarry: https://formcarry.com/s/q4owIPEbP2t5
+instagram_token: https://ig.instant-tokens.com/users/1f891a21-d7f3-4e88-98b4-c3203a06f296/instagram/17841400134457080/token.js?userSecret=8uppontepbt0yuawk0n9ep
+
+# Author settings
+author:
+  - name: Dong Hu
+    bio: Insert Bio Here
+    url: http://chaodonghu.github.io
+
+# Pagination settings
+pagination:
+  enabled: true
+  debug: false
+  per_page: 12
+  permalink: "/page/:num/"
+  title: ":title"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts:
+      - "tag.html"
+    title: "Dong Hu"
+    permalink: "/tag/:tag"
+    slugify:
+      mode: raw
+      cased: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
+  - vendor
+  - Rakefile
