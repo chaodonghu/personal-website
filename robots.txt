@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: http://chaodonghu.github.io/sitemap.xml
