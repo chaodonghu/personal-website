@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dong Hu</title>
+    <title></title>
     <description></description>
-    <link>http://0.0.0.0:4000</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Dec 2020 17:36:10 -0600</pubDate>
-    <lastBuildDate>Mon, 07 Dec 2020 17:36:10 -0600</lastBuildDate>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 07 Dec 2020 19:09:33 -0500</pubDate>
+    <lastBuildDate>Mon, 07 Dec 2020 19:09:33 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -65,9 +65,9 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/myplanet/3.jpg&quot; alt=&quot;MyPlanetCohortActivity&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 04 Sep 2017 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/2017/09/04/myplanet/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2017/09/04/myplanet/</guid>
+        <pubDate>Mon, 04 Sep 2017 00:00:00 -0400</pubDate>
+        <link>/2017/09/04/myplanet.html</link>
+        <guid isPermaLink="true">/2017/09/04/myplanet.html</guid>
         
         <category>Portfolio</category>
         
@@ -106,9 +106,9 @@
 
 &lt;p&gt;&lt;a href=&quot;http://itineroo.herokuapp.com/&quot;&gt;Demo&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 08 Jul 2017 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/2017/07/08/itineroo/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2017/07/08/itineroo/</guid>
+        <pubDate>Sat, 08 Jul 2017 00:00:00 -0400</pubDate>
+        <link>/2017/07/08/itineroo.html</link>
+        <guid isPermaLink="true">/2017/07/08/itineroo.html</guid>
         
         <category>Portfolio</category>
         
@@ -143,9 +143,9 @@
 &lt;p&gt;&lt;a href=&quot;https://chaodonghu.github.io/phaser_drake_pong/&quot;&gt;Demo&lt;/a&gt;
 &lt;a href=&quot;https://github.com/chaodonghu/phaser_drake_pong&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 08 Jul 2017 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/2017/07/08/phaser-games/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2017/07/08/phaser-games/</guid>
+        <pubDate>Sat, 08 Jul 2017 00:00:00 -0400</pubDate>
+        <link>/2017/07/08/phaser-games.html</link>
+        <guid isPermaLink="true">/2017/07/08/phaser-games.html</guid>
         
         <category>Portfolio</category>
         
@@ -188,9 +188,9 @@
 
 &lt;p&gt;Poster presentation for the Canadian Physiotherapy Association describing the role of robotic exoskeletons in SCI rehabilitation. A narrative synthesis of published data regarding the safety and efficacy of the technology of exoskeletons.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 08 Jul 2017 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/2017/07/08/poster-presentations/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2017/07/08/poster-presentations/</guid>
+        <pubDate>Sat, 08 Jul 2017 00:00:00 -0400</pubDate>
+        <link>/2017/07/08/poster-presentations.html</link>
+        <guid isPermaLink="true">/2017/07/08/poster-presentations.html</guid>
         
         <category>Blog</category>
         
@@ -221,9 +221,9 @@
   &lt;li&gt;Stack used: React, Node.js, Express, Websockets&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/2017/07/04/chatty_app/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2017/07/04/chatty_app/</guid>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>/2017/07/04/chatty_app.html</link>
+        <guid isPermaLink="true">/2017/07/04/chatty_app.html</guid>
         
         <category>Portfolio</category>
         
@@ -252,9 +252,9 @@
   &lt;li&gt;Stack used: HTML/CSS, jQuery, AJAX, Node.js, Express, MongoDB&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/2017/07/04/tweeter/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2017/07/04/tweeter/</guid>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>/2017/07/04/tweeter.html</link>
+        <guid isPermaLink="true">/2017/07/04/tweeter.html</guid>
         
         <category>Portfolio</category>
         
@@ -309,9 +309,9 @@
   &lt;li&gt;Stack used: Node.js, Express, Bcrypt&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/2017/07/04/tiny-url-shortener/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2017/07/04/tiny-url-shortener/</guid>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>/2017/07/04/tiny-url-shortener.html</link>
+        <guid isPermaLink="true">/2017/07/04/tiny-url-shortener.html</guid>
         
         <category>Portfolio</category>
         
@@ -360,9 +360,9 @@
   &lt;li&gt;Stack used: HTML/CSS/SASS, Bootstrap, Javascript, AJAX, Node.js, Express, PostreSQL, Twilio API&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/2017/07/04/bonappetit_food_ordering/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2017/07/04/bonappetit_food_ordering/</guid>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>/2017/07/04/bonappetit_food_ordering.html</link>
+        <guid isPermaLink="true">/2017/07/04/bonappetit_food_ordering.html</guid>
         
         <category>Portfolio</category>
         
